@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.2.0](https://github.com/Lucaka/google-release-please/compare/v1.1.0...v1.2.0) (2024-04-18)
+
+
+### Features
+
+* script ([146ea78](https://github.com/Lucaka/google-release-please/commit/146ea7863cab91537ee6911135381694316ab826))
+
+
+### Bug Fixes
+
+* script ([92fc572](https://github.com/Lucaka/google-release-please/commit/92fc5722eed7c754ffc6437bad45e7a2fc928c98))
+
+
+### Performance Improvements
+
+* script ([ad6a0ce](https://github.com/Lucaka/google-release-please/commit/ad6a0ce736fe6a3e14eb730947326e2d6f6fd5f0))
+
+
+### Miscellaneous Chores
+
+* release 1.2.0 ([64e9362](https://github.com/Lucaka/google-release-please/commit/64e9362c4c3109677187645bc71ecaea067ca301))
+
 ## [1.1.0](https://github.com/Lucaka/google-release-please/compare/v1.0.0...v1.1.0) (2024-04-18)
 
 
