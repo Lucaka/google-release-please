@@ -1,3 +1,6 @@
+### Add Empty commit for github action(googleapis/release-please)
+git commit --allow-empty -m "chore: release 1.1.0" -m "Release-As: 1.1.0"
+
 ### Type
 
 * **build**: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
