@@ -1,1 +1,3 @@
 function actionA() {}
+
+function actionBA() {}
