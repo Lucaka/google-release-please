@@ -2,4 +2,4 @@ function actionA() {}
 
 function actionB() {}
 
-function actionC() {}
+function actionC() {} // ✨
