@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.3.0](https://github.com/Lucaka/google-release-please/compare/v1.2.0...v1.3.0) (2024-04-19)
+
+
+### Features
+
+* PR ([11c8c7c](https://github.com/Lucaka/google-release-please/commit/11c8c7ca6f200070181907b53b1b49e1172a0b92))
+* PR - Multi-Commit ([724724f](https://github.com/Lucaka/google-release-please/commit/724724f33802981b2d2eb345a88f1f39c4ce76db))
+* PR - Multi-Commit - 2 ([2e28296](https://github.com/Lucaka/google-release-please/commit/2e28296d1d9bac91d872fb4523bf3495bf69c0f2))
+* PR Test 2 ([a8eb87b](https://github.com/Lucaka/google-release-please/commit/a8eb87b1d87b3dcb246d165666f60aba2e224f14))
+* release-please replace release-type `node` ([5275d1d](https://github.com/Lucaka/google-release-please/commit/5275d1d4009094931a8e7a3e363a0a26c2b8ed35))
+
 ## [1.2.0](https://github.com/Lucaka/google-release-please/compare/v1.1.0...v1.2.0) (2024-04-18)
 
 
