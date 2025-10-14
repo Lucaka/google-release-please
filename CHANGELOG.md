@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2-beta.1](https://github.com/Lucaka/google-release-please/compare/google-release-please-v1.3.1-beta.1...google-release-please-v1.3.2-beta.1) (2025-10-14)
+
+
+### 🐛 Bug Fixes
+
+* bug ([4b6a128](https://github.com/Lucaka/google-release-please/commit/4b6a128e3ecab64953e0f1b4156a6baefb78afad))
+
 ## [1.3.1-beta.1](https://github.com/Lucaka/google-release-please/compare/google-release-please-v1.3.0-beta.1...google-release-please-v1.3.1-beta.1) (2025-10-14)
 
 
