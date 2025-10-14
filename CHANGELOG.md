@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.3.1-beta.1](https://github.com/Lucaka/google-release-please/compare/google-release-please-v1.3.0-beta.1...google-release-please-v1.3.1-beta.1) (2025-10-14)
+
+
+### 🐛 Bug Fixes
+
+* Rename release-please-config.json to .release-please-config.json ([14bb262](https://github.com/Lucaka/google-release-please/commit/14bb262d7306d4e18408733fcb9b60581713711e))
+* token error ([4183729](https://github.com/Lucaka/google-release-please/commit/41837299de369cc56cc7e28532049659d9b0b271))
+
+
+### ✅ Tests
+
+* Update release-please.yml ([7378ac8](https://github.com/Lucaka/google-release-please/commit/7378ac8e9bfb27fedcc438a8a7eeb3a3230eaaaf))
+
+
+### 🔧 Maintenance
+
+* 1.3.0 ([61a090c](https://github.com/Lucaka/google-release-please/commit/61a090c959d3d6407cda0ea38c5913c1245f7a3b))
+* Create release-please-config.json ([aca8ca8](https://github.com/Lucaka/google-release-please/commit/aca8ca8c810ec751dbbad32ec0a959022e599876))
+
 ## [1.3.0](https://github.com/Lucaka/google-release-please/compare/v1.2.0...v1.3.0) (2024-04-19)
 
 
