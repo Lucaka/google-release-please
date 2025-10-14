@@ -1,0 +1,23 @@
+{
+  "last-release-sha": "a10764bc0f1d79ba1ff1a484e26985d719347f02",
+  "prerelease": true,
+  "prerelease-type": "beta",
+  "packages": {
+    ".": {},
+  },
+  "changelog-sections": [
+    { "type": "feat", "section": "🎉 New Features" },
+    { "type": "env", "section": "� Environment Changes" },
+    { "type": "fix", "section": "🐛 Bug Fixes" },
+    { "type": "hotfix", "section": "🚑 Hotfixes" },
+    { "type": "docs", "section": "📚 Documentation" },
+    { "type": "refactor", "section": "🛠 Code Refactoring" },
+    { "type": "api", "section": "🔗 API Changes" },
+    { "type": "market", "section": "🎨 Marketing & Design" },
+    { "type": "test", "section": "✅ Tests" },
+    { "type": "revert", "section": "⏪ Reverts" },
+    { "type": "perf", "section": "⚡ Performance Improvements" },
+    { "type": "deps", "section": "📦 Dependency Updates" },
+    { "type": "chore", "section": "🔧 Maintenance" }
+  ],
+}
