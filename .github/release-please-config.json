@@ -3,7 +3,7 @@
   "prerelease": true,
   "prerelease-type": "beta",
   "packages": {
-    ".": {},
+    ".": {}
   },
   "changelog-sections": [
     { "type": "feat", "section": "🎉 New Features" },
